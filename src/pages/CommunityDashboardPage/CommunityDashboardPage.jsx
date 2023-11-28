@@ -36,6 +36,9 @@ export default function CommunityDashboardPage({ user, weatherData }) {
 
   return (
     <div className="page-content dashboard-layout">
+      <div>
+        <CommunityDashboard weatherData={weatherData} allUsers={allUsers} />
+      </div>
       <h1>Today's Forecast for {locationName}</h1>
       <img src={todayAvgConditionIcon} className="weather-icon" alt=''/>
       <div className="weather-text">{todayAvgConditionText}</div>
@@ -52,9 +55,6 @@ export default function CommunityDashboardPage({ user, weatherData }) {
         <br/>
       </div>
       <Link to="/home" className="button">See my FITforecast</Link>
-      <div>
-        <CommunityDashboard weatherData={weatherData} allUsers={allUsers} />
-      </div>
     </div>
   );
 }
