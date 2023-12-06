@@ -81,7 +81,7 @@ A big thank you to the team, including our instructors Weston Bailey, Rondell Ch
 - [ ] Include suggestion functionality that takes into account the time of day
 - [ ] Include future recommendations based on weather forecast (i.e. out to 'x' number of days)
 - [ ] Include current weather via shared location services from user's GPS on their device
-- [ ] Include advanced suggested work-outs based on previous performance, ratings, and weather
+- [ ] Include advanced suggested workouts based on previous performance, ratings, and weather
 - [ ] Include additional analytics on dashboard
 - [ ] Include ability for all users to add comments under "leaderboard" (like reddit / twitter feed)
 
@@ -147,10 +147,10 @@ The minimum viable product (MVP) goal is a functional OKR tool with basic CSS st
 - [X] AAU, I want the ability to log-out.
 - [X] AAU, I do not want other users to see my activity data.
 - [X] AAU, I want the ability to edit my location.
-- [X] AAU, I want the application to recommend a work-out based on my location's weather each day.
-- [ ] AAU, I want the ability to log my work-out activity, including: date, type, and detailed notes.
-- [X] AAU, I want the ability to rate my work-out activity.
-- [X] AAU, I want the ability to update and delete my previously logged work-out activity.
+- [X] AAU, I want the application to recommend a workout based on my location's weather each day.
+- [ ] AAU, I want the ability to log my workout activity, including: date, type, and detailed notes.
+- [X] AAU, I want the ability to rate my workout activity.
+- [X] AAU, I want the ability to update and delete my previously logged workout activity.
 - [X] AAU, I want the ability to see a community dashboard that posts the activity total for all users.
 - [X] AAU, I want the application to be user-friendly and mobile responsive.
 
@@ -175,8 +175,8 @@ The minimum viable product (MVP) goal is a functional OKR tool with basic CSS st
 - [X] Include functionality that allows each user to only see their own activity 
 - [X] Include a weather API that displays the current weather on 'Home' screen and 'FITforecast' screen
 - [X] Include current weather based on user's zip code input
-- [X] Include a "suggested work-out" based on current weather
-- [X] Include ability to log a work-out activity including: name, type, date, indoor v. outdoor, rating, and detail notes
+- [X] Include a "suggested workout" based on current weather
+- [X] Include ability to log a workout activity including: name, type, date, indoor v. outdoor, rating, and detail notes
 - [X] Include a page that displays all of a user's activity
 - [X] Include ability to update a previously logged activity
 - [X] Include ability to delete a previously logged activity
@@ -201,6 +201,6 @@ The minimum viable product (MVP) goal is a functional OKR tool with basic CSS st
 - [ ] Include suggestion functionality that takes into account the time of day
 - [ ] Include future recommendations based on weather forecast (i.e. out to 'x' number of days)
 - [ ] Include current weather via shared location services from user's GPS on their device
-- [ ] Include advanced suggested work-outs based on previous performance, ratings, and weather
+- [ ] Include advanced suggested workouts based on previous performance, ratings, and weather
 - [ ] Include additional analytics on dashboard
 - [ ] Include ability for all users to add comments under "leaderboard" (like reddit / twitter feed)
