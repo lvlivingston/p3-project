@@ -1,11 +1,10 @@
 # ![Banner Photo](./src/images/final/finalreadmeBanner.jpg)
-A MERN-Stack application created by [Selam Beyene](https://github.com/Slmbyn), [Will Faulkner](https://github.com/wnfaulkner), [Nathan Holliday](https://github.com/nholliday314), & [Leah Livingston](https://github.com/lvlivingston).
+A MERN-Stack application created by:[Selam Beyene](https://github.com/Slmbyn), [Will Faulkner](https://github.com/wnfaulkner), [Nathan Holliday](https://github.com/nholliday314), & [Leah Livingston](https://github.com/lvlivingston).
 
 
-[Click Here to Check out the App Now](https://fitforecast-dc33e66f392f.herokuapp.com/)
 
 ---
-### **Project Idea and Description**
+### **Project Description**
 
 FITforecast is a web application designed to enhance your well-being through personalized workout suggestions based on your local weather conditions. Whether it's a sunny day and perfect for a run, a rainy afternoon calling for an indoor activity, or a peaceful evening to recharge with meditation, FITforecast tailors a daily workout recommendation for you.
 
@@ -25,7 +24,7 @@ The application utilizes the third-party [WeatherAPI](https://www.weatherapi.com
 
 
 ---
-## ERDs
+### **ERDs**
 ![ERD](./src/images/final/finalERD.png)
 
 
@@ -48,7 +47,7 @@ The application utilizes the third-party [WeatherAPI](https://www.weatherapi.com
 ---
 ### **Screenshots of the App**
 
-###### Landing Page
+##### Landing Page
 ![Current Wireframes](./src/images/final/currentWireframes.png)
 
 
@@ -61,17 +60,20 @@ A big thank you to the team, including our instructors Weston Bailey, Rondell Ch
 ---
 ### **Next Steps**
 
-###### Style
+##### Style
 - [ ] Polish CSS styling following the 'Brand Kit'
 - [ ] Increase size of font on 'Log-in' and 'Sign-In' pages
 - [ ] Clean up CSS on 'Edit Activity' and 'Edit Profile' screens
+- [ ] Clean up CSS on 'My Activity' screen
+- [ ] Clean up CSS on 'Community Dashboard' screen (mobile vs. desktop)
 - [ ] Include visual optimization for desktop and tablet views
 - [ ] Include a carousel view on FITforecast view to see 3-day forecast
 - [ ] Include ability for user to include a personalized profile photo
 
 
-###### Functionality
+##### Functionality
 - [ ] Fix "details" box for 'Edit Activity' page to save update
+- [ ] Include toggle function between Fahrenheit and Celcius
 - [ ] Include ability to log-in via oAuth
 - [ ] Include ability for user to upload a photo and bio on their profile page
 - [ ] Include ability for user to view analytics like week / month / activity type
@@ -90,10 +92,19 @@ A big thank you to the team, including our instructors Weston Bailey, Rondell Ch
 ---
 # Planning Materials & Original Pitch below
 
+### **Brainstorming**
+The team utilized MIRO for brainstorming, strategizing, planning, and utilizing the kanban to track progress.
+
+![MIRO](./src/images/final/miro.png)
+
+
+
+---
 ### **Project Idea and Description**
 A MERN-Stack application created by [Selam Beyene](https://github.com/Slmbyn), [Will Faulkner](https://github.com/wnfaulkner), [Nathan Holliday](https://github.com/nholliday314), & [Leah Livingston](https://github.com/lvlivingston).
 
-FITforecast is a web application designed to enhance your well-being by providing personalized workout suggestions based on your local weather conditions. Whether it's a sunny day perfect for a run, a rainy day calling for indoor exercises, or a peaceful evening ideal for meditation, FITforecast tailors your workout recommendations for you.
+The idea, FITforecast, is a web application designed to enhance your well-being by providing personalized workout suggestions based on your local weather conditions. Whether it's a sunny day perfect for a run, a rainy day calling for indoor exercises, or a peaceful evening ideal for meditation, FITforecast tailors your workout recommendations for you.
+
 
 
 ---
