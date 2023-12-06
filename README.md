@@ -18,7 +18,7 @@ FITforecast is a web application designed to enhance your well-being through per
 It's a MERN-Stack web application hosted on Heroku utilizing MongoDB, Express, React, and Node.js. Also employed with HTML, CSS, and JavaScript, the WeatherAPI is included to provide personalized recommendations.
 
 ##### **API Details**
-The application utilizes the third-party [WeatherAPI](https://www.weatherapi.com/docs/) (allowing one million calls per month for free). The API's 'forecast' endpoint provides weather forecasts up to three days ahead of the current date, returning useful data like daily average temperature and total expected precipitation.
+The application utilizes the third-party [WeatherAPI](https://www.weatherapi.com/docs/) (allowing one million free calls per month). The API's 'forecast' endpoint provides weather data up to three days prior to the current date; this returns useful data like daily average temperature and total expected precipitation.
 
 ![API Details](./public/images/pitch/apiDetails.png)
 
