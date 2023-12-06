@@ -150,7 +150,7 @@ The minimum viable product (MVP) goal is a functional OKR tool with basic CSS st
 - [X] AAU, I do not want other users to see my activity data.
 - [X] AAU, I want the ability to edit my location.
 - [X] AAU, I want the application to recommend a workout based on my location's weather each day.
-- [ ] AAU, I want the ability to log my workout activity, including: date, type, and detailed notes.
+- [X] AAU, I want the ability to log my workout activity, including: date, type, and detailed notes.
 - [X] AAU, I want the ability to rate my workout activity.
 - [X] AAU, I want the ability to update and delete my previously logged workout activity.
 - [X] AAU, I want the ability to see a community dashboard that posts the activity total for all users.
@@ -188,8 +188,8 @@ The minimum viable product (MVP) goal is a functional OKR tool with basic CSS st
 ### **Stretch Goals**
 
 ###### Style
-- [ ] Include CSS styling following a 'Brand Kit'
-- [ ] Include a 'Brand Kit' for future development use
+- [X] Include CSS styling following a 'Brand Kit'
+- [ ] Include complete 'Brand Kit' document for future development use
 - [ ] Include visual optimization for desktop and tablet
 - [ ] Include a carousel view on FITforecast view to see 3-day forecast
 
