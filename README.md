@@ -95,7 +95,7 @@ A big thank you to the team, including our instructors Weston Bailey, Rondell Ch
 # Planning Materials & Original Pitch below
 
 ### **Brainstorming**
-The team utilized MIRO for brainstorming, strategizing, planning, and utilizing the kanban to track progress.
+The team utilized MIRO for brainstorming, strategizing, planning, and the kanban was used to track development progress.
 
 ![MIRO](./src/images/final/miro.png)
 
