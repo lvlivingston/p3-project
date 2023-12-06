@@ -86,6 +86,8 @@ A big thank you to the team, including our instructors Weston Bailey, Rondell Ch
 - [ ] Include ability for all users to add comments under "leaderboard" (like reddit / twitter feed)
 
 
+[Click Here to Check out the App Now](https://fitforecast-dc33e66f392f.herokuapp.com/)
+
 
 
 
