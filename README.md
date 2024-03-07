@@ -9,7 +9,7 @@ A MERN-Stack application created by [Selam Beyene](https://github.com/Slmbyn), [
 FITforecast is a web application designed to enhance your well-being through personalized workout suggestions based on your local weather conditions. Whether it's a sunny day and perfect for a run, a rainy afternoon calling for an indoor activity, or a peaceful evening to recharge with meditation, FITforecast tailors a daily workout recommendation for you.
 
 
-[Click Here to Check out the App Now](https://fitforecast-dc33e66f392f.herokuapp.com/)
+[Click Here to Check out the App Now](https://fit-forecast.vercel.app/)
 
 
 
@@ -86,7 +86,7 @@ A big thank you to the team, including our instructors Weston Bailey, Rondell Ch
 - [ ] Include ability for all users to add comments under "leaderboard" (like reddit / twitter feed)
 
 
-[See Current Version of App Here](https://fitforecast-dc33e66f392f.herokuapp.com/)
+[See Current Version of App Here](https://fit-forecast.vercel.app/)
 
 
 
